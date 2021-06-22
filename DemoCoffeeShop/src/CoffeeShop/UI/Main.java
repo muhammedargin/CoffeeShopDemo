@@ -10,7 +10,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		BaseCustomerManager customerManager = new  StarbucksCustomerManager(new MernisServiceAdapter());
-		Customer customer = new Customer(1,"Muhammed","Argýn",1995,"27040402458");
+		Customer customer = new Customer(1,"Muhammed","ArgÃ½n",1995,"270");
 		
 		
 		
